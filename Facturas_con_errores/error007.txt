@@ -1,0 +1,17 @@
+SUPERMERCADOS EL AHORRO
+CIF: B12345678
+Fecha: 13/09/2025
+Hora: 12:30
+Cajero: 017
+Nombre cajero: Pedro García
+Ticket: 30010007
+
+Producto: Café Molido
+Cantidad: 1
+Precio: 5.00
+Importe: 5.00
+
+Subtotal: 5.00
+IVA: 1.05
+Total: 7.00
+Pago: Efectivo

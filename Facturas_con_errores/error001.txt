@@ -1,0 +1,17 @@
+SUPERMERCADOS EL AHORRO
+CIF: B12345678
+Fecha: 35/15/2025
+Hora: 17:01
+Cajero: 015
+Nombre cajero: Juan Pérez
+Ticket: 30010001
+
+Producto: Pasta Spaghetti 500g
+Cantidad: 2
+Precio: 0.85
+Importe: 1.70
+
+Subtotal: 1.70
+IVA: 0.36
+Total: 2.06
+Pago: Efectivo

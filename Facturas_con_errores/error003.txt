@@ -1,0 +1,17 @@
+SUPERMERCADOS EL AHORRO
+CIF: B12345678
+Fecha: 11/09/2025
+Hora: 17:05
+Cajero: 015
+Nombre cajero: Juan Pérez
+Ticket: 20010001
+
+Producto: Agua Mineral 1.5L
+Cantidad: 2
+Precio: 0.50
+Importe: 1.00
+
+Subtotal: 1.00
+IVA: 0.21
+Total: 1.21
+Pago: Efectivo

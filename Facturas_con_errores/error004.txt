@@ -1,0 +1,17 @@
+SUPERMERCADOS EL AHORRO
+CIF: B12345678
+Fecha: 12/09/2025
+Hora: 10:30
+Cajero: 016
+Nombre cajero: María López
+Ticket: 30010004
+
+Producto: Arroz 1kg
+Cantidad: dos
+Precio: 1.50
+Importe: 3.00
+
+Subtotal: 3.00
+IVA: 0.63
+Total: 3.63
+Pago: Tarjeta

@@ -1,0 +1,16 @@
+SUPERMERCADOS EL AHORRO
+CIF: B12345678
+Fecha: 11/09/2025
+Hora: 17:01
+Nombre cajero: Juan Pérez
+Ticket: 30010002
+
+Producto: Leche Entera 1L
+Cantidad: 2
+Precio: 1.00
+Importe: 2.00
+
+Subtotal: 2.00
+IVA: 0.42
+Total: 2.42
+Pago: Tarjeta

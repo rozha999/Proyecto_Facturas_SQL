@@ -1,0 +1,8 @@
+Facturas\factura_001.txt: La operación cantidad × precio no coincide en producto 6
+Facturas_con_errores\error001.txt: Fecha no válida: '35/15/2025'
+Facturas_con_errores\error002.txt: Falta el campo obligatorio: codigo_cajero
+Facturas_con_errores\error004.txt: Número no válido en producto 1 (cantidad): 'dos'
+Facturas_con_errores\error005.txt: Falta el campo obligatorio: total; Falta el campo obligatorio: total
+Facturas_con_errores\error006.txt: El subtotal no coincide con la suma de los importes
+Facturas_con_errores\error007.txt: El total no coincide con subtotal + IVA
+Facturas_con_errores\error008.txt: Archivo vacío
